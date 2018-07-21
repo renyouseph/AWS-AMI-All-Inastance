@@ -11,6 +11,6 @@ This script will take the AMI of all running and stopped instance in the specifi
 
 ### Configuration:
 
->> Set your Region in 'Region'
->> Set the Retetion required.
+* Set your Region in 'Region'
+* Set the Retetion required.
 
